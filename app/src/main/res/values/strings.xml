@@ -9,4 +9,18 @@
     <string name="hint_confirm_password">confirm password</string>
     <string name="text_sign_up">Sign Up</string>
     <string name="toggle_tap_to_login">Tap To Login</string>
+    <string name="passenger_sign_in">Passenger Sign In</string>
+    <string name="driver_sign_in">Driver Sign In</string>
+    <string name="log_in">Log In</string>
+    <string name="or_log_in">Or, Log In</string>
+    <string name="or_sign_up">Or, Sign Up</string>
+    <string name="title_activity_driver_maps">Map</string>
+    <string name="Button">Settings</string>
+    <string name="singOut">Выйти</string>
+    <string name="settingsButton">Настройки</string>
+    <string name="title_activity_passenger_maps">Map</string>
+    <string name="bookTxi">Заказать такси</string>
+    <string name="gettingTaxi">Находим такси</string>
+    <string name="gettingYourTaxi">Найденые такси</string>
+    <string name="distance_to_driver">Дистанция до водителя</string>
 </resources>

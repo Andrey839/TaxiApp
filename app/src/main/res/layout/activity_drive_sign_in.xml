@@ -8,6 +8,17 @@
     android:orientation="vertical"
     android:padding="16dp">
 
+    <TextView
+        android:id="@+id/driverTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/driver_sign_in"
+        android:textSize="@dimen/tittle_size"
+        android:gravity="center"
+        android:textColor="@color/colorText"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"/>
+
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/inputEmail"
         android:layout_width="match_parent"
